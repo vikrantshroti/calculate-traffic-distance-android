@@ -16,9 +16,9 @@ Then click calcualte distance.
 
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/vikrantshroti/multiple-selection-spinner-android/master/device-2018-05-05-120207.png)
-![alt text](https://raw.githubusercontent.com/vikrantshroti/multiple-selection-spinner-android/master/device-2018-05-05-120225.png)
-![alt text](https://raw.githubusercontent.com/vikrantshroti/multiple-selection-spinner-android/master/device-2018-05-05-120235.png)
+![alt text](https://raw.githubusercontent.com/vikrantshroti/calculate-traffic-distance-android/master/device-2018-05-05-135053.png)
+![alt text](https://raw.githubusercontent.com/vikrantshroti/calculate-traffic-distance-android/master/device-2018-05-05-135109.png)
+![alt text](https://raw.githubusercontent.com/vikrantshroti/calculate-traffic-distance-android/master/device-2018-05-05-135126.png)
 
 
 #### Contributing

@@ -2,8 +2,9 @@
 
 ### A demonstaration of google services to calculate traffic distances.
 
-### Note 1 : If you are using android 6+ manually give location permission
-### Note 2 : This application is registered with my Google Location API key so change it as per your use. 
+### Note : 
+* If you are using android 6+ manually give location permission 
+* This application is registered with my Google Location API key so change it as per your use. 
 
 ### Getting Started
 Simply, import the project and run. Apk is also included, test it before you use.

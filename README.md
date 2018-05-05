@@ -9,6 +9,11 @@
 ### Getting Started
 Simply, import the project and run. Apk is also included, test it before you use.
 
+### How to use 
+Long press on map set start point
+Long press and set end point 
+Then click calcualte distance.
+
 
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/vikrantshroti/multiple-selection-spinner-android/master/device-2018-05-05-120207.png)
